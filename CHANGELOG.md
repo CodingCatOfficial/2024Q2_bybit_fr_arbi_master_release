@@ -8,6 +8,9 @@
 - 可設置條件，在單一程式中進行建/平倉
 - 可勾選"關倉不要停"，在觸發關倉條件下，如果沒倉位，就不會去關倉
 
+### 備註
+這版開始，從 1.1.0 開始，就跟 https://github.com/CodingCatOfficial/2024Q1_bybit_arbi_master 無關ㄌ
+
 ## [1.1.4] - 2024-04-28
 ### 變更
 - 依原有 https://github.com/CodingCatOfficial/2024Q1_bybit_arbi_master ，結合跨交易所價差克隆出bybit_fr_arbi_master
